@@ -1,0 +1,12 @@
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.sw*
+*.un~
+node_modules/
+logs/
+.idea/
+.log/
+.vscode/
+dist/
+*.i

@@ -1,0 +1,43 @@
+{
+  "name": "tn_dubin",
+  "version": "1.0.2",
+  "description": "杜宾侦探，检测您的依赖包安全情况",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "package-check",
+    "@tn",
+    "safe-check",
+    "lib-cehck",
+    "dubin"
+  ],
+  "bin": {
+    "dubin": "./index.js"
+  },
+  "author": "tn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^7.2.0",
+    "shelljs": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tieniuer/dubin.git"
+  },
+  "contributors": [
+    {
+      "name": "tn",
+      "email": "wxk_tn6@163.com",
+      "url": "https://github.com/tieniuer"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/tieniuer/dubin/issues"
+  }
+}
