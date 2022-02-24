@@ -1,6 +1,6 @@
 {
   "name": "tn_dubin",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "杜宾侦探，检测您的依赖包安全情况",
   "main": "index.js",
   "scripts": {
